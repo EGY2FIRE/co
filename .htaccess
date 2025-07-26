@@ -1,4 +1,0 @@
-# BEGIN PHP_CUSTOM_SETTINGS
-php_value curl.cainfo "/home/u434274691/domains/co.apaza.cloud/public_html/certs/cacert.pem"
-php_value openssl.cafile "/home/u434274691/domains/co.apaza.cloud/public_html/certs/cacert.pem"
-# END PHP_CUSTOM_SETTINGS
